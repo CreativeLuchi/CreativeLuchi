@@ -1,6 +1,9 @@
-## Hi there, I'm Bolanle👩🏽‍🔬👩‍💻👋
+# Hi there, I'm Bolanle👩🏽‍🔬👩‍💻👋
 
 ☄️ I am a researcher specializing in Protein Chemistry, Bioinformatics and Computational Biology with a focus on molecular biology, biotechnology, drug discovery, and genomics. My expertise includes sequence analysis, structural biology, molecular docking, and pharmacokinetic prediction, supported by strong skills in data processing, assembly, and downstream functional analysis.
+
+![Screenshot 2025-06-12 at 22 52 11](https://github.com/user-attachments/assets/475d23c0-858d-41da-9d58-23e30eae2a93)
+
 
 🎯 Areas of Expertise
 Sequence Analysis: Proficient in nucleotide and protein sequence alignment, conserved region identification, and variant analysis using tools such as BLAST, Clustal Omega, and Jalview.
