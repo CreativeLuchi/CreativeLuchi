@@ -21,7 +21,7 @@ Data processing and analysis: FastQC, Trimmomatic, BWA, Minimap2, featureCounts,
 Programming and scripting: R, Python (for statistical and bioinformatics analyses)
 
 🎯 Research Interests
-Viral protease structure-function relationships and inhibitor design
-Computational drug discovery and repurposing
-Functional genomics and transcriptomics
+Viral protease structure-function relationships and inhibitor design,
+Computational drug discovery and repurposing,
+Functional genomics and transcriptomics,
 Integration of multi-omics data for disease understanding
